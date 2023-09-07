@@ -1,0 +1,52 @@
+body
+{
+    font-family: 'Luckiest Guy', cursive;
+    background-image: linear-gradient( to right , rgb(6, 187, 193), rgb(67, 220, 37))
+}
+
+#heading
+{
+    background-color:rgb(249, 153, 9);
+    text-align:center;
+    line-height:50px;
+    font-size:60px;
+    color:white;
+}
+
+#back_button
+{
+    border-radius:20px;
+    height:100px;
+    width:225px;
+    float:right;
+}
+
+#status
+{   
+    display:inline-block;
+    background-color:rgb(249, 153, 9);
+    border-radius:10px;
+    font-size:40px;
+    padding-left:20px;
+    padding-right:20px;
+    letter-spacing:2px;
+    color:white;
+}
+
+#objects
+{
+    display:inline-block;
+    background-color:rgb(249, 153, 9);
+    border-radius:10px;
+    font-size:40px;
+    padding-left:20px;
+    padding-right:20px;
+    letter-spacing:2px;
+    color:white;
+}
+
+canvas
+{
+    border:5px solid rgb(249, 153, 9);
+    border-radius:20px;
+}

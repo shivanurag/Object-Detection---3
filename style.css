@@ -1,0 +1,24 @@
+body
+{
+    font-family: 'Luckiest Guy', cursive;
+    background-size:cover;
+}
+
+.header
+{
+    font-size:50px;
+    letter-spacing:1px;
+    background-color:darkcyan;
+    color:aliceblue;
+}
+
+.anchor
+{
+    background-color:darkcyan;
+    font-size:40px;
+    color:aliceblue;
+    letter-spacing:2px;
+    display:inline-block;
+    width:200px;
+    border-radius:30px;
+}
